@@ -1,0 +1,32 @@
+:root {
+    --primaryColor:black;
+    --secondaryColor: #1;
+    --alternativeColor: white;
+    --myColor:#222;
+    --theColor:#333;
+}
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;}
+
+    .logo {
+        width: 9.5rem;
+    }
+    .links{
+        width: 200px;
+    }
+    .qrcode{
+        height: 220px ;
+        width: 265px;
+    }
+
+    .ashgrey{
+        height: 220px ;
+        width: 265px;
+    }
+    body{
+        background-image:url(https://i.postimg.cc/2Sy7GjTb/wp2555615.jpg);
+    }
